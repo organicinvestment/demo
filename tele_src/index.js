@@ -12,18 +12,18 @@ var TESTNET = false
 // API KEYS GO HERE
 
 var blocktrail_opts = {
-    apiKey: "YOUR_API_KEY",
-    apiSecret: "YOUR_API_SECRET",
+    apiKey: "883261796c7cbc0f03ec6cc068521c348bc09f0f",
+    apiSecret: "62f1c1becf3e9f23a44835ae65f78e1963ef92ed",
     network: "BTC",
     testnet: TESTNET
 }
 
-var WALLET_NAME = 'YOUR_WALLET_NAME'
-var WALLET_PASS = 'YOUR_WALLET_PASSWORD'
+var WALLET_NAME = 'organicinvestmentltd@gmail.com'
+var WALLET_PASS = 'Dark94035@'
 
-var TELE_TOKEN = 'YOUR_TELEGRAM_TOKEN'; // looks like '123456789:AAG90e14-0f8-40183D-18491dDE'
+var TELE_TOKEN = '679536463:AAHtTgZcA0JdoZAxqPeSM9QcDEicDnsTxWI'; // looks like '123456789:AAG90e14-0f8-40183D-18491dDE'
 
-var BOT_USERNAME = 'YOUR_BOT_USERNAME' // your bot's username (without the @)
+var BOT_USERNAME = 'Demotest6bot' // your bot's username (without the @)
 
 var HEROKU_URL = 'https://YOUR_HEROKU_APP_NAME.herokuapp.com:443';
 
